@@ -1,3 +1,7 @@
+> This project introduced the **MoveMeant Communication Inference Tool** for the 
+> [Choral programming language](https://choral-lang.org).
+> The code was merged into the main compiler [in this PR](https://github.com/choral-lang/choral/pull/38).
+
 # Choral
 
 A compiler for the Choral programming language. Learn more at [https://choral-lang.org/](https://choral-lang.org/).
